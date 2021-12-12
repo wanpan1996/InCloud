@@ -1,2 +1,2 @@
-inbug.org
-inscan.org
+rksec.cn
+www.rksec.cn
